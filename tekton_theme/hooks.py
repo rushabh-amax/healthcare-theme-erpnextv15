@@ -5,6 +5,9 @@ app_description = "hims theme"
 app_email = "rushabhmalvaniya.amax@gmail.com"
 app_license = "mit"
 
+
+# app_include_css = "assets/"
+
 # Apps
 # ------------------
 
@@ -25,7 +28,12 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/tekton_theme/css/tekton_theme.css"
+# app_include_css = "/assets/tekton_theme/css/tekton.bundle.css"
+# app_include_css = "/assets/tekton_theme/css/tekton.bundle.css"
+app_include_css = "/assets/tekton_theme/css/tekton.bundle.css"
+website_include_css = "/assets/tekton_theme/css/tekton.bundle.css"
+
+
 # app_include_js = "/assets/tekton_theme/js/tekton_theme.js"
 
 # include js, css files in header of web template
